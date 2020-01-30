@@ -6,7 +6,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
                       http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1" metadata-complete="true">
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>ssm</display-name>
 
   <!-- REST 过滤器 -->
   <filter>
